@@ -1,0 +1,16 @@
+.git
+.github
+.idea
+.vscode
+node_modules
+vendor
+tests
+coverage
+.env
+.env.*
+!.env.example
+docker-compose.yml
+WEBSITE-DESIGN-BRIEF.md
+x-secPRD
+README.md
+*.log

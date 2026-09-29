@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+/vendor/
+/node_modules/
+/coverage/
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Keep the source PRD out of deployment repositories.
+x-secPRD
